@@ -1,7 +1,0 @@
-B1 1 N
-B2 0 N
-T1 0 N
-T2 0 N
-T3 0 N
-B1n 0 N
-B2n 0 N
